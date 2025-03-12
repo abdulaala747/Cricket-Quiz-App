@@ -1,0 +1,304 @@
+[
+  [
+    {
+      "question": "Which team has won the ICC Champions Trophy 2013?",
+      "answers": [
+        "Pakistan",
+        "Australia",
+        "India",
+        "New Zealand"
+      ],
+      "correctAnswer": "India"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2016?",
+      "answers": [
+        "West Indies",
+        "England",
+        "Inida",
+        "Australia"
+      ],
+      "correctAnswer": "West Indies"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 2019?",
+      "answers": [
+        "Australia",
+        "England",
+        "India",
+        "West Indies"
+      ],
+      "correctAnswer": "England"
+    },
+    {
+      "question": "Which team has won the ICC Champions Trophy 2009?",
+      "answers": [
+        "India",
+        "Pakistan",
+        "England",
+        "Australia"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2007?",
+      "answers": [
+        "Pakistan",
+        "India",
+        "England",
+        "West Indies"
+      ],
+      "correctAnswer": "India"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1975?",
+      "answers": [
+        "Sri Lanka",
+        "West Indies",
+        "India",
+        "Pakistan"
+      ],
+      "correctAnswer": "West Indies"
+    },
+    {
+      "question": "Which team has won the ICC Champions Trophy 2017?",
+      "answers": [
+        "West Indies",
+        "Australia",
+        "Inida",
+        "Pakistan"
+      ],
+      "correctAnswer": "Pakistan"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2010?",
+      "answers": [
+        "England",
+        "Australia",
+        "Sri Lanka",
+        "Pakistan"
+      ],
+      "correctAnswer": "England"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1979?",
+      "answers": [
+        "England",
+        "West Indies",
+        "India",
+        "Pakistan"
+      ],
+      "correctAnswer": "West Indies"
+    },
+    {
+      "question": "Which team has won the ICC Champions Trophy 2006?",
+      "answers": [
+        "England",
+        "India",
+        "Australia",
+        "Pakistan"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2024?",
+      "answers": [
+        "Pakistan",
+        "England",
+        "Australia",
+        "India"
+      ],
+      "correctAnswer": "India"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1987?",
+      "answers": [
+        "Australia",
+        "West Indies",
+        "Pakistan",
+        "India"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "Which team has won the ICC Champions Trophy 2004?",
+      "answers": [
+        "England",
+        "West Indies",
+        "Australia",
+        "India"
+      ],
+      "correctAnswer": "West Indies"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2009?",
+      "answers": [
+        "India",
+        "Australia",
+        "West Indies",
+        "Pakistan"
+      ],
+      "correctAnswer": "Pakistan"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1996?",
+      "answers": [
+        "Sri Lanka",
+        "Australia",
+        "India",
+        "England"
+      ],
+      "correctAnswer": "Sri Lanka"
+    },
+    {
+      "question": "Which player has the most runs in One Day Internationals?",
+      "answers": [
+        "Rahul Dravid",
+        "Sachin Tendulkar",
+        "Muhammad Yousuf",
+        "Rickey Ponting"
+      ],
+      "correctAnswer": "Sachin Tendulkar"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2012?",
+      "answers": [
+        "India",
+        "England",
+        "West Indies",
+        "Sri Lanka"
+      ],
+      "correctAnswer": "West Indies"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1983?",
+      "answers": [
+        "Pakistan",
+        "England",
+        "West Indies",
+        "India"
+      ],
+      "correctAnswer": "India"
+    },
+    {
+      "question": "Which player has the most runs in Tests?",
+      "answers": [
+        "Joe Root",
+        "Rahul Dravid",
+        "Sachin Tendulkar",
+        "Rickey Ponting"
+      ],
+      "correctAnswer": "Sachin Tendulkar"
+    },
+    {
+      "question": "Which team has won the ICC T20 World Cup 2021?",
+      "answers": [
+        "Sri Lanka",
+        "Pakistan",
+        "England",
+        "Australia"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1992?",
+      "answers": [
+        "India",
+        "West Indies",
+        "Pakistan",
+        "England"
+      ],
+      "correctAnswer": "Pakistan"
+    },
+    {
+      "question": "Which team has won the IPL in 2010?",
+      "answers": [
+        "Kolkata Knight Riders",
+        "Mumbai Indias",
+        "Deccan Chargers",
+        "Chennai Super Kings"
+      ],
+      "correctAnswer": "Chennai Super Kings"
+    },
+    {
+      "question": "Which team has won the PSL in 2016?",
+      "answers": [
+        "Islamabad United",
+        "Karachi Kings",
+        "Quetta Gladiators",
+        "Lahore Qalandars"
+      ],
+      "correctAnswer": "Islamabad United"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 1999?",
+      "answers": [
+        "Australia",
+        "India",
+        "West Indies",
+        "Pakistan"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "question": "Which team has won the IPL in 2012?",
+      "answers": [
+        "Mumbai Indias",
+        "Chennai Super Kings",
+        "Kolkata Knight Riders",
+        "Deccan Chargers"
+      ],
+      "correctAnswer": "Kolkata Knight Riders"
+    },
+    {
+      "question": "Which team has won the PSL in 2019?",
+      "answers": [
+        "Karachi Kings",
+        "Quetta Gladiators",
+        "Islamabad United",
+        "Lahore Qalandars"
+      ],
+      "correctAnswer": "Quetta Gladiators"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 2011?",
+      "answers": [
+        "England",
+        "India",
+        "Sri Lanka",
+        "Australia"
+      ],
+      "correctAnswer": "India"
+    },
+    {
+      "question": "Which team has won the IPL in 2016?",
+      "answers": [
+        "Mumbai Indias",
+        "Chennai Super Kings",
+        "Kolkata Knight Riders",
+        "Sunrisers Hyderabad"
+      ],
+      "correctAnswer": "Sunrisers Hyderabad"
+    },
+    {
+      "question": "Which team has won the PSL in 2023?",
+      "answers": [
+        "Quetta Gladiators",
+        "Lahore Qalandars",
+        "Karachi Kings",
+        "Islamabad United"
+      ],
+      "correctAnswer": "Lahore Qalandars"
+    },
+    {
+      "question": "Which team has won the ICC Cricket World Cup 2003?",
+      "answers": [
+        "England",
+        "Pakistan",
+        "Australia",
+        "West Indies"
+      ],
+      "correctAnswer": "Australia"
+    }
+  ]
+]
